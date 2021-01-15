@@ -1,5 +1,5 @@
 moment = require("moment"); //DATES HANDLER
-
+console.log("update");
 async function agregar_meses_faltantes() {
   //Some random dates input(Axios, raw string, etc)
   var dates = [
